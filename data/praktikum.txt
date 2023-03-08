@@ -1,0 +1,4 @@
+imam praratama setiady
+205150309111002
+
+PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform. PuTTY is open source software that is available with source code and is developed and supported by a group of volunteers.
